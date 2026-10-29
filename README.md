@@ -64,8 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Atexto was a speech-recognition data company based in Mexico City (founded ~2016 by Brenda Mana Pastrian and Esteban Gorupicz). It helped ML and voice-assistant teams create, collect, annotate, transcribe, and benchmark audio/speech datasets — combining an enterprise data platform with a global paid crowdsourcing community that transcribed and labeled audio across ~24 languages and accents.
+> **No live API surface.** Nothing from this company could be reached the last time it was checked: the site is offline, parked or unreachable, or no public API was found. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: 500 Global, Redwood Ventures, MC Capital, Start-Up Chile.
+**Status:** inactive
 
-Status: appears inactive. The former domain atexto.com has been repurposed to an unrelated third-party site, and no live developer portal, API documentation, or machine-readable API specification could be located. This repo captures verified historical identity only.
+Atexto was a speech-recognition data company (self-described "the accuracy platform for speech recognition") based in Mexico City, founded around 2016 by Brenda Mana Pastrian and Esteban Gorupicz. It helped machine-learning and voice-assistant teams create, collect, annotate, transcribe, and benchmark audio/speech datasets, combining an enterprise data platform with a global paid crowdsourcing community that transcribed and labeled audio across roughly 24 languages and their regional accents. The company also offered a hybrid human-plus-machine audio-to-text transcription service and ASR training-data services. It was backed by 500 Global, Redwood Ventures, MC Capital, and a Start-Up Chile grant. The company now appears inactive: its former domain atexto.com has been repurposed to an unrelated third-party site, and no live developer portal, API documentation, or machine-readable API specification could be located. This profile captures verified historical identity only; no API artifacts were enriched because no live API surface exists.
+
+**Areas:** Company · Speech Recognition · Transcription · Data Labeling · Data Annotation · Voice AI · Training Data · Crowdsourcing · Machine Learning · Latin America
+
+## Atexto on APIs.io (historical record)
+
+Everything profiled for Atexto is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/atexto/](https://apis.io/providers/atexto/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no live api surface, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Atexto: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/atexto/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
